@@ -1,3 +1,5 @@
+Forked by us to fix deprecation notices. Original seems abandoned so we probably don't need to pull any upstream changes. If this should be necessary, please create a PR in this repo.
+
 # CMB2 Field Type: Select2
 
 ## Description
